@@ -1,1 +1,1 @@
-# sample-task_002
+# Create a fully functional calculator web app. It should allow users to input two numbers and perform addition, subtraction, multiplication, and division. Include all necessary HTML, CSS, and JavaScript so that the app works directly on GitHub Pages. The app should have input fields, buttons for each operation, and display the result dynamically.
